@@ -1,10 +1,11 @@
 # Olá! Eu sou Cassiano Orlandine 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Atualmente aprendendo JavaScript, Python e Redes  
+💻 Desenvolvedor Full Stack em formação  
 🚀 Em busca do primeiro estágio na área de tecnologia
 
-⚡ Stack Front-End: HTML5, CSS3, JavaScript, TypeScript, Vue, Angular e React.js
+⚡ Full Stack:
+HTML • CSS • JavaScript • Python • Java • MySQL
 
 ## 🛠 Tecnologias
 - C
@@ -14,7 +15,7 @@
 - Python
 - JavaScript
 - TypeScript
-- Git e GitHub
+- Git & GitHub
 - MySQL
 
 ## 📚 Atualmente estudando
@@ -25,6 +26,7 @@
 - Redes de Computadores
 
 ## 📫 Contato
-💼 LinkedIn: linkedin.com/in/cassiano-orlandine-a18419376  
+💼 LinkedIn: www.linkedin.com/in/cassiano-orlandine-a18419376  
 📧 Email: cassianoadriani@gmail.com
+
 
