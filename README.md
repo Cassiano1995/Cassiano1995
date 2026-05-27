@@ -25,4 +25,6 @@
 - Redes de Computadores
 
 ## 📫 Contato
-- LinkedIn: linkedin.com/in/cassiano-orlandine-a18419376
+💼 LinkedIn: linkedin.com/in/cassiano-orlandine-a18419376  
+📧 Email: cassianoadriani@gmail.com
+
