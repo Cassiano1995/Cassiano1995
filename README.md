@@ -26,7 +26,7 @@ Git & GitHub
 
 ## 📌 Projetos em destaque
 
-🔹 **[Sistema de Clientes e Pedidos](LINK_DO_REPO)**  
+🔹 **[Sistema de Clientes e Pedidos](https://github.com/Cassiano1995/sistema-clientes-pedidos)**  
 Sistema CRUD completo em Python com MySQL, gerenciando clientes, produtos e pedidos com relacionamento entre tabelas.  
 `Python` `MySQL`
 
